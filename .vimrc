@@ -1,3 +1,4 @@
+let $PYTHONPATH="/usr/lib/python3.4/site-packages"
 set rtp+=~/.vim/bundle/neobundle.vim/
 
 runtime! custom_preconfig/*.vim
